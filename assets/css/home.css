@@ -1,0 +1,151 @@
+.banner_icone{
+	padding-top-top: 20px;
+	margin-bottom: 20px;
+	max-width: 900px;
+	width: 100%;
+	margin: auto;
+	text-align: center;
+	color: #0000CD;
+}
+.banner_icone .col-sm-3{
+	    transition: 1s;
+	    cursor: pointer;
+}
+
+.banner_icone .col-sm-3:hover{
+ 
+        transform: scale(1.05);
+        transition: 1s;
+}
+
+.banner_icone p{
+	font-size: 20px;
+	font-weight: 500;
+	margin-top: 10px;
+}
+
+.banner_flui{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.banner_meio{
+	 
+background-image: url(/site_portifolio/imagens/fundo6.png);
+background-position: center;
+background-size: cover;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+}
+
+.banner_meio h1{
+	font-weight: 700;
+	 
+
+}
+
+.banner_meio p{
+	color: #999;
+	font-weight: 600;
+	font-size: 20px;
+}
+
+.banner_info{
+ 
+background-image: url(/site_portifolio/imagens/fundo5.jpg);
+background-attachment: fixed;
+background-size: cover;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-repeat: no-repeat;
+	background-position: center center;
+	color: #fff;
+	font-family: initial;
+
+
+}
+
+.banner_info h3{
+	padding-top: 30px;
+
+}
+
+.banner_info a{
+margin-bottom: 30px;
+}
+
+.banner_car{
+	 
+	max-width: 900px;
+	width: 100%;
+	margin: auto;
+}
+.banner_car h1{
+
+	color: #8B0000 ;
+	padding-top: 20px;
+	text-align: center;
+
+}
+
+.img_car{
+
+	max-height: 300px;
+	text-align: center;
+
+	background-image: url(/site_portifolio/assets/images/fundo_branco.png);
+	max-width: 250px;
+	width: 100%;
+}
+
+ 
+
+.hover_aminator{
+	transition: 0.5s;
+	padding-top: 50px;
+	padding-bottom:  50px;
+}
+.hover_aminator p{
+	text-align: center;
+	padding-top: 10px;
+	font-weight: 500;
+	font-family: initial;
+	font-size: 20px;
+}
+
+.hover_aminator:hover{
+
+		transition: 0.5s;
+    box-shadow: 0 1px 25px 0px #8B0000;
+        transform: scale(1.05);
+}
+ .banner_info_img{
+ 	background-image: url(/site_portifolio/assets/images/fundo18.jpg);
+ 	background-size: contain;
+ 	background-attachment: fixed;
+
+ }
+ .text{
+ 	max-width: 500px;
+ 	margin: auto;
+ 	width: 100%;
+ 	color: #fff;
+ 	text-align: center;
+ 	padding-top: 30px;
+ 	padding-bottom: 30px;
+
+ }
+
+ .text p{
+ 	font-size: 20px;
+ 	padding-top: 10px;
+ }
+
+ .banner_info_img_esq{
+ 	background-color: #333 ;
+ }
+
+

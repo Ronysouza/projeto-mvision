@@ -1,0 +1,40 @@
+.menu_mobile li{
+	list-style: none;
+		color: #fff;
+
+}
+
+.menu_mobile{
+	background-color: blue;
+	max-width: 150px;
+	width: 100%;
+	border-radius: 5px;
+	text-align: left;
+	padding: 10px;
+	position: absolute;
+	z-index: 1;
+	display: none;
+
+
+}
+
+.menu_b{
+	display: none;
+}
+
+
+
+@media (max-width: 700px){
+
+.menu_b{
+	display: block;
+	right: 5px;
+	z-index: 1;
+}
+
+.menu_a{
+	display: none;
+}
+
+
+}

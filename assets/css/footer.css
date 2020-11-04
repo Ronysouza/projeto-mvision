@@ -1,0 +1,23 @@
+.footer{
+	text-align: center;
+   padding-top: 20px;
+   background-color: #FFE4E1;
+}
+
+.footer li{
+	list-style: none;
+	text-align: justify;
+	cursor: pointer;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	font-family: initial;
+	color: 	#808080;
+
+}
+
+.autor{
+	border-top: 1px solid #ddd;
+	color: 	#808080;
+	line-height: 50px;
+
+}

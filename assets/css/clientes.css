@@ -1,0 +1,23 @@
+.alert h1{
+	text-align: center;
+
+}
+
+.clientes_banner_icon{
+	transition: 1s;
+	margin-bottom: 20px;
+	margin-top: 10px;
+}
+
+.clientes_banner_icon:hover{
+	transition: 1s;
+	transform: scale(1.05);
+	box-shadow: 1px 5px 5px 5px #FFE4E1;
+
+
+}
+
+.clientes_banner{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
